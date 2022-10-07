@@ -1,5 +1,4 @@
 /*Samuel Zheng
-June 23, 2021
 The program runs a game in which the player moves a 'catcher' to catch falling circles
 */
 
